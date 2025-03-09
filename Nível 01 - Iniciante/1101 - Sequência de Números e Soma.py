@@ -7,7 +7,7 @@ O arquivo de entrada contém um número não determinado de valores M e N. A úl
 Saída
 Para cada dupla de valores, imprima a sequência do menor até o maior e a soma deles, conforme exemplo abaixo.
 
-https://judge.beecrowd.com/pt/problems/view/1101
+https://judge.beecrowd.com/pt/problems/view/1101 
 ____________________________________________________________________________________________________________________'''
 
 while True:

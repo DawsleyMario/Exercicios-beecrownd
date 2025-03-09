@@ -8,7 +8,8 @@ A entrada é composta por vários casos de testes contendo valores inteiros.
 Saída
 Para cada valor lido mostre a mensagem correspondente à descrição do problema.
 
-https://judge.beecrowd.com/pt/problems/view/1114
+https://judge.beecrowd.com/pt/problems/view/1114 
+
 ____________________________________________________________________________________________________________________'''
 
 senha_correta = str(2002)

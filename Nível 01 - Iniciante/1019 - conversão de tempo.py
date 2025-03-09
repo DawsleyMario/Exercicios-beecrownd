@@ -5,17 +5,23 @@ Entrada
 O arquivo de entrada contém um valor inteiro N.
 
 Saída
-Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, 
-conforme exemplo fornecido.
+Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido. 
 
 https://judge.beecrowd.com/pt/problems/view/1019
 ____________________________________________________________________________________________________________________'''
 
+
 segundos = int(input())
 
-horas = segundos // 3600
-segundos = segundos % 3600
-minutos =  segundos // 60
-segundos = segundos % 60
+horas = 0
+minutos = 0
+
+while(segundos >= 3600):
+    segundos -= 3600
+    horas += 1
+
+while(segundos >= 60):
+    segundos -= 60
+    minutos += 1
 
 print(f'{horas}:{minutos}:{segundos}')

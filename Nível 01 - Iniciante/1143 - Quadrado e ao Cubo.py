@@ -7,7 +7,7 @@ O arquivo de entrada contém um número inteiro positivo N.
 Saída
 Imprima a saída conforme o exemplo fornecido.
 
-https://judge.beecrowd.com/pt/problems/view/1143
+https://judge.beecrowd.com/pt/problems/view/1143 
 ____________________________________________________________________________________________________________________'''
 
 n = int(input())

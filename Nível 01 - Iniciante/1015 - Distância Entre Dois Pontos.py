@@ -10,7 +10,7 @@ A primeira linha contém dois valores de ponto flutuante: x1 y1 e a segunda linh
 Saída
 Calcule e imprima o valor da distância segundo a fórmula fornecida, considerando 4 casas decimais.
 
-https://judge.beecrowd.com/pt/problems/view/1015
+https://judge.beecrowd.com/pt/problems/view/1015 
 ____________________________________________________________________________________________________________________'''
 
 x1, y1 = map(float, input().split())

@@ -7,7 +7,7 @@ O arquivo de entrada contém 4 valores inteiros.
 Saída
 Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
-https://judge.beecrowd.com/pt/problems/view/1007
+https://judge.beecrowd.com/pt/problems/view/1007 
 ____________________________________________________________________________________________________________________'''
 
 contador = 4

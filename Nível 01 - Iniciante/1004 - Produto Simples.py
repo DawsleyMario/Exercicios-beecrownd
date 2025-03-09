@@ -8,7 +8,7 @@ Saída
 Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. 
 Não esqueça de imprimir o fim de linha após o produto, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
 
-https://judge.beecrowd.com/pt/problems/view/1004
+https://judge.beecrowd.com/pt/problems/view/1004 
 ____________________________________________________________________________________________________________________'''
 
 valor1 = int(input())

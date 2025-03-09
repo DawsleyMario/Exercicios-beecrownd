@@ -10,7 +10,7 @@ O arquivo de entrada contém um número inteiro.
 Saída
 Imprima o tempo necessário seguido da mensagem "minutos".
 
-https://judge.beecrowd.com/pt/problems/view/1016
+https://judge.beecrowd.com/pt/problems/view/1016 
 ____________________________________________________________________________________________________________________'''
 
 distancia = int(input())

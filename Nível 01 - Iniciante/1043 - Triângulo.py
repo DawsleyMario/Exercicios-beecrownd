@@ -11,7 +11,7 @@ A entrada contém três valores reais.
 Saída
 O resultado deve ser apresentado com uma casa decimal.
 
-https://judge.beecrowd.com/pt/problems/view/1047
+https://judge.beecrowd.com/pt/problems/view/1047 
 ____________________________________________________________________________________________________________________'''
 
 valores = input()

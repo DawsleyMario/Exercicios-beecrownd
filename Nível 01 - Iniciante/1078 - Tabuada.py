@@ -7,7 +7,7 @@ A entrada contém um valor inteiro N (2 < N < 1000).
 Saída
 Imprima a tabuada de N, conforme o exemplo fornecido.
 
-https://judge.beecrowd.com/pt/problems/view/1078
+https://judge.beecrowd.com/pt/problems/view/1078 
 ____________________________________________________________________________________________________________________'''
 
 n = int(input())

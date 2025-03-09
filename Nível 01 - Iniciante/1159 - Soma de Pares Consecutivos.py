@@ -10,7 +10,7 @@ O arquivo de entrada contém muitos valores inteiros. O último valor do arquivo
 Saída
 Imprima a saida conforme a explicação acima e o exemplo abaixo.
 
-https://judge.beecrowd.com/pt/problems/view/1159
+https://judge.beecrowd.com/pt/problems/view/1159 
 ____________________________________________________________________________________________________________________'''
 
 while True:

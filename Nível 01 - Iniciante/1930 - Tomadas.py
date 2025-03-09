@@ -18,7 +18,7 @@ Saída
 Seu programa deve produzir uma única linha contendo um único número inteiro, 
 indicando o número máximo de aparelhos que podem ser conectados à energia num mesmo instante.
 
-https://judge.beecrowd.com/pt/problems/view/1930
+https://judge.beecrowd.com/pt/problems/view/1930 
 ____________________________________________________________________________________________________________________'''
 
 entrada = input()

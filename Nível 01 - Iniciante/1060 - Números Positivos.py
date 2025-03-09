@@ -7,7 +7,7 @@ Seis valores, negativos e/ou positivos.
 Saída
 Imprima uma mensagem dizendo quantos valores positivos foram lidos.
 
-https://judge.beecrowd.com/pt/problems/view/1060
+https://judge.beecrowd.com/pt/problems/view/1060 
 ____________________________________________________________________________________________________________________'''
 
 valores_positivos = []

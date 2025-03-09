@@ -10,7 +10,7 @@ A entrada consiste em vários casos de teste. Cada caso contém um número N (0 
 Saída
 Para cada caso de teste, imprima o valor devidamente convertido.
 
-https://judge.beecrowd.com/pt/problems/view/3475
+https://judge.beecrowd.com/pt/problems/view/3475 
 ____________________________________________________________________________________________________________________'''
 
 n = input()

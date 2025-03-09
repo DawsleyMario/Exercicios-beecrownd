@@ -1,7 +1,7 @@
 '''Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  
 Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
 
-https://judge.beecrowd.com/pt/problems/view/1049
+https://judge.beecrowd.com/pt/problems/view/1049 
 ____________________________________________________________________________________________________________________'''
 
 aguia = ('vertebrado', 'ave', 'carnivoro')

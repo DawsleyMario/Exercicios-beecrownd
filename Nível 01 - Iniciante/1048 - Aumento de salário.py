@@ -17,7 +17,7 @@ Saída
 Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste 
 (ambos devem ser apresentados com 2 casas decimais) e o percentual de reajuste ganho, conforme exemplo abaixo.
 
-https://judge.beecrowd.com/pt/problems/view/1048
+https://judge.beecrowd.com/pt/problems/view/1048 
 ____________________________________________________________________________________________________________________'''
 
 

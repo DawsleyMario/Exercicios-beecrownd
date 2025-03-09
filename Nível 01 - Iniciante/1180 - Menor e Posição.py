@@ -12,7 +12,7 @@ A primeira linha apresenta a mensagem “Menor valor:” seguida de um espaço e
 A segunda linha apresenta a mensagem “Posicao:” seguido de um espaço e da posição do vetor na qual se encontra o menor valor lido, 
 lembrando que o vetor inicia na posição zero.
 
-https://judge.beecrowd.com/pt/problems/view/1080
+https://judge.beecrowd.com/pt/problems/view/1080 
 ____________________________________________________________________________________________________________________'''
 
 n = int(input())

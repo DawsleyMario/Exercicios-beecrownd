@@ -10,7 +10,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, 
 caso contrário, você receberá "Presentation Error".
 
-https://judge.beecrowd.com/pt/problems/view/1002
+https://judge.beecrowd.com/pt/problems/view/1002 
 ____________________________________________________________________________________________________________________'''
 
 p = 3.14159

@@ -9,7 +9,7 @@ O arquivo de entrada contém três valores inteiros.
 Saída
 Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
 
-https://judge.beecrowd.com/pt/problems/view/1013
+https://judge.beecrowd.com/pt/problems/view/1013 
 ____________________________________________________________________________________________________________________'''
 
 entrada = input()

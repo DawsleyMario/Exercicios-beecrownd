@@ -9,7 +9,7 @@ Saída
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. 
 Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-https://judge.beecrowd.com/pt/problems/view/1001
+https://judge.beecrowd.com/pt/problems/view/1001 
 ____________________________________________________________________________________________________________________'''
 
 A = int(input())

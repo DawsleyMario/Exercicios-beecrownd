@@ -12,7 +12,7 @@ O arquivo de entrada contém um número com ponto flutuante qualquer.
 Saída
 A saída deve ser uma mensagem conforme exemplo abaixo.
 
-https://judge.beecrowd.com/pt/problems/view/1037
+https://judge.beecrowd.com/pt/problems/view/1037 
 ____________________________________________________________________________________________________________________'''
 
 valor1 = float(input())

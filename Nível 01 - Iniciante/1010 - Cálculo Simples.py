@@ -8,7 +8,7 @@ Saída
 A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando de deixar um espaço após os dois pontos e um espaço após o "R$". 
 O valor deverá ser apresentado com 2 casas após o ponto.
 
-https://judge.beecrowd.com/pt/problems/view/1010
+https://judge.beecrowd.com/pt/problems/view/1010 
 ____________________________________________________________________________________________________________________'''
 
 def separador():

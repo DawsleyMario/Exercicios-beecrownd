@@ -8,7 +8,7 @@ Saída
 Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo necessárias, conforme o exemplo fornecido. 
 Não esqueça de imprimir o fim de linha após cada linha, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
 
-https://judge.beecrowd.com/pt/problems/view/1018
+https://judge.beecrowd.com/pt/problems/view/1018 
 ____________________________________________________________________________________________________________________'''
 
 valor = int(input())

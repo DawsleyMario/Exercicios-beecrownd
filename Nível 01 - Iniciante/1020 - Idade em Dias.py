@@ -10,7 +10,7 @@ O arquivo de entrada contém um valor inteiro.
 Saída
 Imprima a saída conforme exemplo fornecido.
 
-https://judge.beecrowd.com/pt/problems/view/1020
+https://judge.beecrowd.com/pt/problems/view/1020 
 ____________________________________________________________________________________________________________________'''
 
 anos = 0
