@@ -9,6 +9,8 @@ Saída
 A saída contém um valor correspondente à média de idade dos indivíduos.
 
 A média deve ser impressa com dois dígitos após o ponto decimal.
+
+https://judge.beecrowd.com/pt/problems/view/1154
 ____________________________________________________________________________________________________________________'''
 
 idade = []

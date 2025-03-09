@@ -12,6 +12,8 @@ Saída
 O arquivo de saída deverá conter 5 linhas de dados. 
 Cada linha corresponde a uma das áreas descritas acima, sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. 
 O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
+
+https://judge.beecrowd.com/pt/problems/view/1012
 ____________________________________________________________________________________________________________________'''
 
 valores = input()

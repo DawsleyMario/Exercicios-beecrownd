@@ -6,6 +6,8 @@ e um valor real Y representando o total de combustível gasto, com um dígito ap
 
 Saída
 Apresente o valor que representa o consumo médio do automóvel com 3 casas após a vírgula, seguido da mensagem "km/l".
+
+https://judge.beecrowd.com/pt/problems/view/1014
 ____________________________________________________________________________________________________________________'''
 
 x = int(input())

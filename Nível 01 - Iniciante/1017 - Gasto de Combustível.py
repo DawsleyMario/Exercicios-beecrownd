@@ -9,6 +9,8 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 
 Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
+
+https://judge.beecrowd.com/pt/problems/view/1017
 ____________________________________________________________________________________________________________________'''
 
 tempo_gasto = int(input())

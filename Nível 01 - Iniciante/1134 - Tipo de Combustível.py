@@ -13,6 +13,8 @@ A entrada contém apenas valores inteiros e positivos.
 
 Saída
 Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
+
+https://judge.beecrowd.com/pt/problems/view/1134
 ____________________________________________________________________________________________________________________'''
 
 alcool = []

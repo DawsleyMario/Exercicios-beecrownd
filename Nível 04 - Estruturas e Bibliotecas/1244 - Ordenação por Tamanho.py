@@ -9,6 +9,8 @@ Os caracteres poderão ser espaços, letras, ou números.
 
 Saída
 A saída deve conter o conjunto de strings da entrada ordenado pelo tamanho das strings. Um espaço em branco deve ser impresso entre duas palavras.
+
+https://judge.beecrowd.com/pt/problems/view/1244
 ____________________________________________________________________________________________________________________'''
 
 def medidor(frase):

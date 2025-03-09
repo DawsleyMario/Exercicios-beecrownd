@@ -8,6 +8,8 @@ e o valor que o funcionário recebe por hora trabalhada, respectivamente.
 Saída
 Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. 
 No caso do salário, também deve haver um espaço em branco após o $.
+
+https://judge.beecrowd.com/pt/problems/view/1008
 ____________________________________________________________________________________________________________________'''
 
 n_funcionario = int(input())

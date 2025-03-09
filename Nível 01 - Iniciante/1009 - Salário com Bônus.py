@@ -7,6 +7,8 @@ representando o salário fixo do vendedor e montante total das vendas efetuadas 
 
 Saída
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
+
+https://judge.beecrowd.com/pt/problems/view/1009
 ____________________________________________________________________________________________________________________'''
 
 nome = input()
