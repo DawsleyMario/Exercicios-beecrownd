@@ -11,9 +11,4 @@ No caso do salário, também deve haver um espaço em branco após o $.
 https://judge.beecrowd.com/pt/problems/view/1008
 ____________________________________________________________________________________________________________________'''
 
-n_funcionario = int(input())
-horas_trabalhadas = int(input())
-hora_salario = float(input())
-
-print(f'NUMBER = {n_funcionario}')
-print(f'SALARY = U$ {horas_trabalhadas * hora_salario:.2f}')
+print(f'NUMBER = {int(input())}\nSALARY = U$ {(int(input())) * (float(input())):.2f}')
